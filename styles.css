@@ -1,0 +1,10 @@
+body{
+    background: url(texture.jpg);
+}
+table{
+    background: url(texture.jpg);
+}
+a{
+    color:aqua;
+    text-decoration:none;
+}
